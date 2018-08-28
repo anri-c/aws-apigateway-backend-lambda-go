@@ -10,7 +10,6 @@ import (
 
 const (
         layout = "20060102"
-        createdat = "20060102150405"
         location = "Asia/Tokyo"
 )
 
